@@ -71,7 +71,7 @@ You can also create nested sub-groups of organization members called teams, to r
 
 For more information about all the features of organizations, see "[About organizations](/organizations/collaborating-with-groups-in-organizations/about-organizations)."
 
-## Enterprise accounts
+## Enterprise accounts81
 
 {% ifversion fpt %}
 {% data variables.product.prodname_ghe_cloud %} and {% data variables.product.prodname_ghe_server %} include enterprise accounts, which allow administrators to centrally manage policy and billing for multiple organizations and enable innersourcing between the organizations. For more information, see "[About enterprise accounts](/enterprise-cloud@latest/admin/overview/about-enterprise-accounts)" in the {% data variables.product.prodname_ghe_cloud %} documentation.
